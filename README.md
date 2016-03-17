@@ -1,4 +1,4 @@
 # Spring-cloud-proxy-service
 
 
-Spring coud config  + Neflix Eureka + Cloud Proxy
+# Spring Cloud: Configuration service + Proxy service + Eureka Registration Service + RabbitMQ + SpringRest
